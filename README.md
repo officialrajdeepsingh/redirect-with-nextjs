@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+I explain the redirection in nextjs. you can understand the redirection functinalty with easy way. you can read my  article on nextjs publication.
 
+https://medium.com/p/5a639b9bbed5
 ## Getting Started
 
 First, run the development server:

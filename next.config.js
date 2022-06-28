@@ -1,8 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  env: {
-    envirement: 'pages-envirement',
+  async redirects() {
+    return [
+      {
+        source: '/protected',
+        destination: '/',
+        permanent: true,
+      },
+    ]
   },
 }
 

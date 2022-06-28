@@ -1,4 +1,4 @@
-I explain the redirection in nextjs. you can understand the redirection functinalty with easy way. you can read my  article on nextjs publication.
+I explain the redirection in nextjs. you can understand the redirect functionality with easy way. you can read my  article on nextjs publication.
 
 https://medium.com/p/5a639b9bbed5
 ## Getting Started
